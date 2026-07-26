@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-z9ycnx.matawaicamp.co.nz/sitemap.xml
